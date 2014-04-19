@@ -1,0 +1,29 @@
+[Application]
+WindowPlacement=0 1 -1 -1 -1 -1 427 192 1287 745
+[Editor1]
+FileName=.\yacc”Ô∑®∑÷Œˆ.pgp
+ReadOnly=0
+WindowPlacement1=0 1 -1 -1 -1 -1 2 5 717 322
+WindowOrder1=3
+Position001=0 1
+Cursor001=0 1 0 1
+SyntaxColouring=0
+TargetSyntaxColouring=3
+[Editor2]
+FileName=.\myparser.y
+ReadOnly=0
+WindowPlacement1=0 1 -1 -1 -1 -1 50 50 765 367
+WindowOrder1=1
+Position001=0 29
+Cursor001=13 47 13 47
+SyntaxColouring=2
+TargetSyntaxColouring=3
+[Project]
+WindowPlacement1=0 1 -1 -1 -1 -1 25 25 740 342
+WindowOrder1=2
+[ProjectFolders1]
+FolderCount=2
+FolderName1=Source Files
+FolderExpanded1=1
+FolderName2=Output Files
+FolderExpanded2=0

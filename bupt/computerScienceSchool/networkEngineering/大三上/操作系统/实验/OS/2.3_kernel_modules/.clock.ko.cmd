@@ -1,0 +1,1 @@
+cmd_/root/Course/OS/2.3_kernel_modules/clock.ko := ld -r -m elf_i386 -T /usr/src/linux-source-3.2.6/scripts/module-common.lds --build-id  -o /root/Course/OS/2.3_kernel_modules/clock.ko /root/Course/OS/2.3_kernel_modules/clock.o /root/Course/OS/2.3_kernel_modules/clock.mod.o
