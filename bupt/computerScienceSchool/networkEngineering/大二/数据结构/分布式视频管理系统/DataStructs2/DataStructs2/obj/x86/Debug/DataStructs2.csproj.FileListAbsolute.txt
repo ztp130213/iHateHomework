@@ -1,0 +1,36 @@
+D:\Work\C#\DataStructs2\DataStructs2\bin\Debug\DataStructs2.exe
+D:\Work\C#\DataStructs2\DataStructs2\bin\Debug\DataStructs2.pdb
+D:\Work\C#\DataStructs2\DataStructs2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Work\C#\DataStructs2\DataStructs2\obj\x86\Debug\DataStructs2.Form1.resources
+D:\Work\C#\DataStructs2\DataStructs2\obj\x86\Debug\DataStructs2.Properties.Resources.resources
+D:\Work\C#\DataStructs2\DataStructs2\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Work\C#\DataStructs2\DataStructs2\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Work\C#\DataStructs2\DataStructs2\obj\x86\Debug\DataStructs2.exe
+D:\Work\C#\DataStructs2\DataStructs2\obj\x86\Debug\DataStructs2.pdb
+D:\Work\C#\DataStructs2\DataStructs2\bin\Debug\zh-CN\DataStructs2.resources.dll
+D:\Work\C#\DataStructs2\DataStructs2\obj\x86\Debug\DataStructs2.Form1.zh-CN.resources
+D:\Work\C#\DataStructs2\DataStructs2\obj\x86\Debug\zh-CN\DataStructs2.resources.dll
+D:\Work\C#\DataStructs2 - 副本\DataStructs2\obj\x86\Debug\DataStructs2.exe
+D:\Work\C#\DataStructs2 - 副本\DataStructs2\obj\x86\Debug\DataStructs2.pdb
+D:\Work\C#\DataStructs2 - 副本\DataStructs2\bin\Debug\DataStructs2.exe
+D:\Work\C#\DataStructs2 - 副本\DataStructs2\bin\Debug\DataStructs2.pdb
+D:\Work\C#\DataStructs2 - 副本\DataStructs2\bin\Debug\zh-CN\DataStructs2.resources.dll
+D:\Work\C#\DataStructs2 - 副本\DataStructs2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Work\C#\DataStructs2 - 副本\DataStructs2\obj\x86\Debug\DataStructs2.Form1.resources
+D:\Work\C#\DataStructs2 - 副本\DataStructs2\obj\x86\Debug\DataStructs2.Properties.Resources.resources
+D:\Work\C#\DataStructs2 - 副本\DataStructs2\obj\x86\Debug\DataStructs2.Form1.zh-CN.resources
+D:\Work\C#\DataStructs2 - 副本\DataStructs2\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Work\C#\DataStructs2 - 副本\DataStructs2\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Work\C#\DataStructs2 - 副本\DataStructs2\obj\x86\Debug\zh-CN\DataStructs2.resources.dll
+H:\College\Class\数据结构\分布式视频管理系统\DataStructs2\DataStructs2\obj\x86\Debug\DataStructs2.exe
+H:\College\Class\数据结构\分布式视频管理系统\DataStructs2\DataStructs2\obj\x86\Debug\DataStructs2.pdb
+H:\College\Class\数据结构\分布式视频管理系统\DataStructs2\DataStructs2\bin\Debug\DataStructs2.exe
+H:\College\Class\数据结构\分布式视频管理系统\DataStructs2\DataStructs2\bin\Debug\DataStructs2.pdb
+H:\College\Class\数据结构\分布式视频管理系统\DataStructs2\DataStructs2\bin\Debug\zh-CN\DataStructs2.resources.dll
+H:\College\Class\数据结构\分布式视频管理系统\DataStructs2\DataStructs2\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\College\Class\数据结构\分布式视频管理系统\DataStructs2\DataStructs2\obj\x86\Debug\DataStructs2.Form1.resources
+H:\College\Class\数据结构\分布式视频管理系统\DataStructs2\DataStructs2\obj\x86\Debug\DataStructs2.Properties.Resources.resources
+H:\College\Class\数据结构\分布式视频管理系统\DataStructs2\DataStructs2\obj\x86\Debug\DataStructs2.Form1.zh-CN.resources
+H:\College\Class\数据结构\分布式视频管理系统\DataStructs2\DataStructs2\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\College\Class\数据结构\分布式视频管理系统\DataStructs2\DataStructs2\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\College\Class\数据结构\分布式视频管理系统\DataStructs2\DataStructs2\obj\x86\Debug\zh-CN\DataStructs2.resources.dll
